@@ -1,0 +1,3 @@
+[submodule "salicylic_lib"]
+	path = salicylic_lib
+	url = git@github.com:methylpentane/KiCAD_FootPrint
